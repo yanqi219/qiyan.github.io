@@ -52,4 +52,4 @@ Service and leadership
 * Volunteer at Beijing Autism Education Center and taught children with autism weekly
 * Conducted a survey on coal workers with pneumoconiosis in Shanxi province, and organized the work for treating the pneumoconiosis patients
 
-[Download CV here](http://academicpages.github.io/files/CV_QiYan_0610.pdf)
+[Download CV here](http://qiyan.github.io/files/CV_QiYan_0610.pdf)
