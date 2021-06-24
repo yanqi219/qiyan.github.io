@@ -16,7 +16,7 @@ I received my Ph.D in epidemiology from the [UCLA](https://ph.ucla.edu/) under t
 
 Contact Information
 =====
-Qi Yan
+Qi Yan \
 Department of Environmental Health Sciences \
 Columbia Mailman School of Public Health \
 722 West 168th Street \
