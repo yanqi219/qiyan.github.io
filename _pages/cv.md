@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Life Sciences, Peking University, 2015
+* Ph.D in Epidemiology, UCLA, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-Present: Postdoctoral Research Scientist
+  * Department of Environmental Health Sciences, Columbia University
+  * Duties included: Employing multi-omics analytical approaches to identify the role of environmental exposures on aging processes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Summer 2014: Internship
+  * Office of Epidemiology, Chinese Center for Disease Control and Prevention (CDC)
+  * Duties included: Participating in one project studying the risk factors for Work-Related Musculoskeletal Disorders among greenhouse farmworkers and mainly in charge of the data analyses and the database's establishment
+
+Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Metabolomics
+* Epigenomics
+* Multi-omics Integration
+* Environmental Health
+* Aging
+
+Honors & Awards
+=====
+* Fielding School of Public Health Dissertation Year Fellowship
+* UCLA Department of Epidemiology Student Fellowship
+* Burroughs Wellcome Fund-Chronic Diseases Inter-school Training Pro-gram (BWF-CHIP) Fellowship
+* Center for Occupational & Environmental Health (COEH) Student Project Award
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer for the Center for Occupational & Environmental Health symposium
+* Volunteer at Beijing Autism Education Center and taught children with autism weekly
+* Conducted a survey on coal workers with pneumoconiosis in Shanxi province, and organized the work for treating the pneumoconiosis patients
+
+[Download CV here](http://academicpages.github.io/files/CV_QiYan_0610.pdf)
