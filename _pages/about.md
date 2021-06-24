@@ -14,7 +14,8 @@ Hi! I’m Qi, an postdoctoral research scientist in the [Baccarelli Lab](https:/
 
 I received my Ph.D in epidemiology from the [UCLA](https://ph.ucla.edu/) under the mentorship of Dr. Beate Ritz, and my B.A. in life sciences at the [Peking University](http://www.bio.pku.edu.cn/enhomes/index/). My past research has focused on utilizing multi-omics techniques, including exposomics, epigenomics, and metabolomics, to investigate the interplay between environmental exposures and various adverse health outcomes.
 
-## Contact Information
+Contact Information
+=====
 Qi Yan
 Department of Environmental Health Sciences \
 Columbia Mailman School of Public Health \
